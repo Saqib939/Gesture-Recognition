@@ -8,5 +8,5 @@
 - For best results, ensure a diverse set of training images!
 - Then apply the data augmentation code (feel free to experiment with more augmentations)
 - Train your model
-- deploy in app setting(ensure that all of the relevant app files are included in the active director)
+- deploy in app setting(ensure that all of the relevant app files are included in the active directory)
 
